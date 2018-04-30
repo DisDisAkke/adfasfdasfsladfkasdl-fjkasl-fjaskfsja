@@ -1,1 +1,1 @@
-worker : Holy.js
+worker: node Holy.js
